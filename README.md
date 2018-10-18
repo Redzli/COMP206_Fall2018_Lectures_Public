@@ -1,4 +1,5 @@
 # Welcome to COMP 206! 
+please ignore
 
 This is the course outline for COMP206 in Fall 2018 term. Welcome to the course!
 
